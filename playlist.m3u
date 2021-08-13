@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Undefined",NATIONAL GEOGRAPHIC UN
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Undefined",National Geographic Wild Asia
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN: National Geographic People HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/4545?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23au0YR2ZE4geWVySWH6oZURExrZqKvfwvCN1GrrGfSscp/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",National Geographic HD
+http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5668?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",DISCOVERY SHED
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23avAqTGUAYXvfc4IVxJUUNF5XDQfPkUKH1ZQQ7PmoSCL_/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Channel HD
+http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5660?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23anTZRU62-XnV-kZRY7Bs0XWFqHu4jfOQ26CEyHB6ePPO/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23avAqTGUAYXvfc4IVxJUUNF7zHFGbVxSMNyfotCa80IGb/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery History
+http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5662?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Science
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23anmE_bzhBPeXBzvC_lRPYnZRgp9LLCnWdTIZcrl_ph_1/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Turbo
+http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5664?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ai7fnlfH_iU2jUtEpAo4l64aDxoOIB4-rDAethQfuzyr/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Discovery Science
+http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5661?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",DISCOVERY FAMILY
+http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23ai7fnlfH_iU2jUtEpAo4l64_63lPbLlztW6hirpsAulq/ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Velocity
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/137408?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Channel HD
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/137443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Discovery Science
+http://dragon4k.com:8080/hYRkcyMuNH/xIjrepe667/137269?checkedby:iptvcat.com
