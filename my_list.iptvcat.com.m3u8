@@ -1,75 +1,341 @@
 #EXTM3U
-#EXTINF:0 tvg-country="UN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Documentary",NATIONAL GEOGRAPHIC
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Documentary",beIN: National Geographic HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/59455?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Documentary",beIN: National Geographic People HD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/4545?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Documentary",NATIONAL GEOGRAPHIC
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23avAqTGUAYXvfc4IVxJUUNF7zHFGbVxSMNyfotCa80IGb/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Documentary",National Geographic HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5668?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Documentary",National Geographic Wild HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5669?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="Undefined",Nat Geo People
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Documentary",Discovery Science HD
-http://spacetv.in/stream/DVB2D6AE8CU/146.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Documentary",Discovery
-http://spacetv.in/stream/DVB2D6AE8CU/177.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Documentary",DISCOVERY HD
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38638?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Documentary",Discovery Channel HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5660?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Documentary",Discovery History
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5662?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Documentary",Discovery Science
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5661?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Documentary",DISCOVERY FAMILY
-http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/17055?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title="FOX",FOX SPORTS HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1873_&f=.m3u8&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="FOX",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",FOX Sport 1
-http://iptv3.kbc.al:25461/musa.jashari11/jYvw7NUbiD/253?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="FOX",Fox
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="FOX",Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/sBmqwwQ.png" group-title="FOX",Fox Life
-https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",Fox News Now
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",Fox Sport 2
-http://iptv3.kbc.al:25461/musa.jashari11/jYvw7NUbiD/254?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",Fox Sport 3
-http://iptv3.kbc.al:25461/musa.jashari11/jYvw7NUbiD/255?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",Fox Sports Australia
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="BBC",beIN: BBC EARTH FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/14569?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="BBC",BBC World News(英国)
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="BBC",BBC NEWS HD
-http://azure.golemflixer.com:8080/play/1ip90JGL0zfWl7dIOf23au0YR2ZE4geWVySWH6oZURGk3W6sQ9Ma4o034cAkzL3W/ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="BBC",BBC News HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5570?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="CNN",CNN Int. (UK)
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CNN",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="CNN",CNN International
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",CNBC Indonesia 1
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Local",GTV (720p)
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID;SG" tvg-logo="" group-title="Local",Channel NewsAsia,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",CNBC,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Local",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="Local",BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="Local",ID | TVRI,TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/VH7TANA.png" group-title="Local",ID | TVRI Jakarta,TVRI Jakarta
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/tPvtrgk.png" group-title="Local",ID | TVRI Jawa Barat,TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="Local",ID | TVRI Kanal 3,TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Local",RCTI (720p)
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="Local",TVKU
+http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Local",TVRI (Opt-3)
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI DKI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="http://tvri.go.id/assets/images/tvrilogo.png" group-title="Local",TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040337.png" group-title="Local",iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Local",SCTV(Indo)
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Local",Animax Japan (Indonesian Subs)
+http://210.210.155.35/dr9445/h/h144/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Local",One HD [Indonesian Sub]
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CNN",CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="CNN",CNN International HD
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Channel4",Channel 4 HD
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5566?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Channel4",Channel 4 HD
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/30824?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Channel4",Channel 4 North
-http://new-pro.tv:8080/f8042ed57a17/U8Mfbl0886/68581?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Channel4",Channel 4 South and East 1
-http://wagmaott.com:8080/mag00:1A:79:A0:B7:0E/ReDcztTd01/5604?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="CNN",CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="CNN",CNN HD
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/30807?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="CNN",CNN
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000122?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="FOX",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title="FOX",FOX SPORTS HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1873_&f=.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/6Hb2XXs.jpg" group-title="FOX",FOX Soul
+http://fox-foxsoul-roku.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="FOX",FOX Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="FOX",Fox
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/sBmqwwQ.png" group-title="FOX",Fox Life
+https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="FOX",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",Fox News (720p)
+https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/tBvEL2d.png" group-title="FOX",Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",Fox Sports Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="FOX",NewsNOW from Fox
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2020/08/newsnow-logo.jpg" group-title="FOX",NewsNow from FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",FOX NEWS
+http://icego.club:80/vanderlei12/vanderlei12/54469?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",FOX SPORTS 2
+http://maghum-ott.com:80/fahim9555/280A30559862/71988?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",FOX SPORTS 2
+http://maghum-ott.com:80/fahim9555/280A30559862/72359?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",FOX Sports 1
+http://icego.club:80/vanderlei12/vanderlei12/54470?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Sport",FOX Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",FOX Sports 1
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/732?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",FOX Sports 2
+http://icego.club:80/vanderlei12/vanderlei12/54471?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",FOX Sports 2
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/733?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",FOX ◉
+http://maghum-ott.com:80/fahim9555/280A30559862/71295?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",Fox News HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",Low BW FOX BUSINESS
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052667?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",Low BW FOX EAST
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052668?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="FOX",Low BW FOX Sports 1
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052789?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Low BW NBCSN
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052732?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",NBCSN
+http://maghum-ott.com:80/fahim9555/280A30559862/71913?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",NBC News Now
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/index_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="News",MSNBC
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="News",NBC News Now
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="News",NBC News Now : HD
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png" group-title="Sky",Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png" group-title="Sky",Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sky",Sky Sport
+http://51.158.144.144:25461/MetiTV-telegrm/Falas-@Metitv/241?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sky",Sky Sports F1
+http://watchindia.net:8880/live/33253/72963/2094.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sky",Sky Sports Football
+http://watchindia.net:8880/live/33253/72963/2093.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sky",Sky Sports Main Event
+http://watchindia.net:8880/live/33253/72963/2091.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SRW/SRH_425x243.png" group-title="Sky",Sky Thoroughbred Central
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Sky_TG24_-_Logo_2018.svg" group-title="Sky",Sky TG24
+https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY ARTS
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/69491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY ARTS
+http://maghum-ott.com:80/fahim9555/280A30559862/69491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS ARENA FHD
+http://maghum-ott.com:80/fahim9555/280A30559862/17291?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS ARENA FHD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17291?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS F1 FHD
+http://maghum-ott.com:80/fahim9555/280A30559862/17289?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS F1 FHD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17289?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS F1 FHD (HEVC)
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/243587?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS FOOTBALL FHD (HEVC)
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/243581?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS FOOTBALL FHD
+http://maghum-ott.com:80/fahim9555/280A30559862/17288?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS MAIN EVENT FHD
+http://maghum-ott.com:80/fahim9555/280A30559862/17286?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS MAIN EVENT FHD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17286?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS PREMIER LEAGUE FHD
+http://maghum-ott.com:80/fahim9555/280A30559862/17285?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS PREMIER LEAGUE FHD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17285?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS PREMIERE LEAGUE FHD (HEVC)
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/243582?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sky",SKY SPORTS RACING FHD (HEVC)
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/243589?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" group-title="Korea",Arirang,Arirang HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="Korea",Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="Korea",BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="Korea",BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" group-title="Korea",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" group-title="Korea",CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090022.png" group-title="Korea",CBS
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/UvRoc22.png" group-title="Korea",Edaily TV
+http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="Korea",GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Korea",Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="Korea",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="Korea",MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/AmalRpB.png" group-title="Korea",Maeil Business Newspaper
+rtmp://origin.flive.skcdn.com/mbn-auth1/1000k?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="Korea",NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="Korea",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="Korea",SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/lJdOstp.png" group-title="Korea",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/lJdOstp.png" group-title="Korea",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" group-title="Korea",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/xLL7Sxm.png" group-title="Korea",TVWorkNet
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/fdFQonN.jpg" group-title="Korea",YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="Korea",YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="Korea",YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY CHANNEL
+http://maghum-ott.com:80/fahim9555/280A30559862/71440?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY  FHD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39146?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY EAST
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000370?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY FAMILY
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/17055?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY FAMILY
+http://maghum-ott.com:80/fahim9555/280A30559862/71439?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY HISTORY
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/148719?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY HISTORY
+http://maghum-ott.com:80/fahim9555/280A30559862/148719?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY LIFE
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000371?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY LIFE
+http://maghum-ott.com:80/fahim9555/280A30559862/71348?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY SC HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/39148?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY SCIENCE
+http://maghum-ott.com:80/fahim9555/280A30559862/71437?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY VELOCITY
+http://maghum-ott.com:80/fahim9555/280A30559862/71309?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",DISCOVERY WEST
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1052425?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",Discovery Channel
+http://icego.club:80/vanderlei12/vanderlei12/54460?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",Discovery Family
+http://icego.club:80/vanderlei12/vanderlei12/54461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",Discovery Science
+http://icego.club:80/vanderlei12/vanderlei12/54462?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",Discovery Science HD
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/117332?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Discovery",SCIENCE (DISCOVERY)
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000116?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY HD
+http://maghum-ott.com:80/fahim9555/280A30559862/17314?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY HD
+http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38638?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY HD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17314?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY HISTORY
+http://maghum-ott.com:80/fahim9555/280A30559862/70077?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY HISTORY
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/70077?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY SCIENCE
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/70079?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY SCIENCE
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000873?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY SCIENCE
+http://maghum-ott.com:80/fahim9555/280A30559862/70079?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY TURBO
+http://maghum-ott.com:80/fahim9555/280A30559862/70082?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",DISCOVERY TURBO
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1039716?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",Discovery +1 ✅
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158462?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",Discovery HD
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",Discovery History
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158465?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",Discovery Science
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",Discovery Science +1
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158464?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",Discovery Turbo
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158467?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",Discovery Turbo +1
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158468?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",INVESTIGATION DISCOVERY
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000839?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",INVESTIGATION DISCOVERY (ID)
+http://maghum-ott.com:80/fahim9555/280A30559862/17312?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",Investigation Discovery
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Discovery",Investigation Discovery +1
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158475?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NATIONAL GEOGRAPHIC EAST
+http://maghum-ott.com:80/fahim9555/280A30559862/71416?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NATIONAL GEOGRAPHIC
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000101?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="National Geographic",NATIONAL GEOGRAPHIC
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="National Geographic",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",National Geographic
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/804?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="National Geographic",Nat Geo Wild
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="National Geographic",Nat Geo People
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="National Geographic",NAT GEO
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000813?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="National Geographic",NAT GEO HD
+http://maghum-ott.com:80/fahim9555/280A30559862/17309?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="National Geographic",NAT GEO WILD
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000812?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="National Geographic",NAT GEO WILD FHD
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/17310?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="National Geographic",NAT GEO WILD FHD
+http://maghum-ott.com:80/fahim9555/280A30559862/17310?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="National Geographic",Nat Geo HD
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158480?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="National Geographic",Nat Geo FHD
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158479?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="National Geographic",Nat Geo Wild HD
+http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158483?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NAT GEO USA
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/71433?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NAT GEO USA
+http://maghum-ott.com:80/fahim9555/280A30559862/71433?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NAT GEO WILD
+http://xxxxlocal.com:8080/xiptv0985/ptXv7hZ0xy/11526?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NAT GEO WILD
+http://vstreams.tv:2082/Qw5C7Ahkv/dP5mHFHukk/1000148?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NAT GEO WILD EAST
+http://maghum-ott.com:80/fahim9555/280A30559862/71417?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NAT GEO WILD HD US
+http://wisdomiptv.com:80/fritznermorency/A724121F3AFC/71432?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NAT GEO WILD HD US
+http://maghum-ott.com:80/fahim9555/280A30559862/71432?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="National Geographic",NAT GEO PEOPLE ᴴᴰ
+http://icego.club:80/vanderlei12/vanderlei12/85811?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c60a6f27255423.5636219b11257.png" group-title="National Geographic",NatGeo Wild HD
+http://tecnotv.club/dinos/principal.php?c=122&f=.m3u8&checkedby:iptvcat.com
